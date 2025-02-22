@@ -34,7 +34,7 @@ Manling Li is an Assistant Professor at Northwestern University. She was a postd
 
 ### Yuji Zhang
 
-![Yuji Zhang](images/YujiZhang.jpeg)
+<img src="images/YujiZhang.jpeg" alt="Yuji Zhang" style="border-radius: 50%; width: 150px; height: 150px;">
 
 Yuji Zhang is a postdoctoral researcher in computer science at the University of Illinois, Urbana-Champaign, advised by Prof. Heng Ji. She works on interpreting and updating large language models (LLM), with a focus on knowledge mechanisms in LLMs. She has papers in top-tier conferences including EMNLP, ACL, ICLR, etc. 
 
