@@ -28,25 +28,25 @@ Manling Li is an Assistant Professor at Northwestern University. She was a postd
 
 ### Zoey 
 
-![Sha Li](images/ShaLi.JPG)
+![Sha Li](images/ShaLi.JPG) { width=200 height=200 }
 
 (Zoey) Sha Li is an applied scientist at Amazon working on LLM pretraining scaling laws and data selection. She obtained her PhD in 2024 at the University of Illinois Urbana-Champaign working with Prof. Jiawei Han and Prof. Heng Ji. Her past research was mainly on information extraction and procedure understanding, extending to the understanding of knowledge within language models and utilizing LMs for knowledge-intensive tasks. She has published 20+ papers at venues such as ACL, EMNLP, NAACL, Neurips, WWW and is an organizer of the workshop "Towards Knowledgeable Language Models" at ACL 2024.
 
 ### Yuji Zhang
 
-<img src="images/YujiZhang.jpeg" alt="Yuji Zhang" style="border-radius: 50%; width: 150px; height: 150px;">
+![Yuji Zhang](images/YujiZhang.jpeg){ width=200 height=200 }
 
 Yuji Zhang is a postdoctoral researcher in computer science at the University of Illinois, Urbana-Champaign, advised by Prof. Heng Ji. She works on interpreting and updating large language models (LLM), with a focus on knowledge mechanisms in LLMs. She has papers in top-tier conferences including EMNLP, ACL, ICLR, etc. 
 
 ### Chi Han
 
-![Chi Han](images/chi_han.jpg)
+![Chi Han](images/chi_han.jpg) { width=200 height=200 }
 
 Chi Han is a Ph.D. candidate in computer science at UIUC, advised by Prof. Heng Ji. His research focuses on understanding and adapting large language model (LLM) representations. He has first-authored papers in NeurIPS, ICLR, NAACL, and ACL, earning Outstanding Paper Awards at NAACL 2024 and ACL 2024.
 
 ### Heng Ji
 
-![Heng Ji](images/ji_heng.jpeg)
+![Heng Ji](images/ji_heng.jpeg) { width=200 height=200 }
 
 Heng Ji, a Professor at UIUC and Amazon Scholar, directs the Amazon-Illinois Center on AI for Interactive Conversational Experiences. With expertise in NLP, multimedia multilingual information extraction, and knowledge-enhanced language models, she has earned numerous accolades, including IEEE’s “AI’s 10 to Watch,” NSF CAREER, and multiple Best Paper Awards.
 
@@ -61,9 +61,7 @@ Heng Ji, a Professor at UIUC and Amazon Scholar, directs the Amazon-Illinois Cen
 | 9:20 - 9:45 AM  | Knowledge Storage | Chi Han |
 | 9:45 - 10:10 AM | Knowledge Boundary | Yuji Zhang |
 | 10:10 - 10:30 AM | Knowledge Editing | Yuji Zhang |
-
-| **10:30 - 11:00 AM** | ☕ **Coffee Break** | |
-
+| **10:30 - 11:00 AM** | ☕ **Coffee Break** | ------ |
 | **11:00 - 12:30 PM** | **Session 2: Advanced Topics in Knowledge** | |
 | 11:00 - 11:25 AM | Knowledge Unlearning | Manling Li |
 | 11:25 - 11:50 AM | Potential Direction 1: Knowledge Updating (Beyond Triplet Form Knowledge) | Zoey Sha Li |
