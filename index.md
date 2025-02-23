@@ -7,7 +7,7 @@ Welcome to the official page for our AAAI 2025 tutorial!
 ## Overview
 
 
-- **Speakers:** [Manling Li](https://limanling.github.io/), [Zoey Sha Li](https://raspberryice.github.io/) [Yuji Zhang](https://celestinezyj.github.io/), [Chi Han](https://glaciohound.github.io), [Heng Ji](https://blender.cs.illinois.edu/hengji.html) 
+- **Speakers:** [Manling Li](https://limanling.github.io/), [Zoey Sha Li](https://raspberryice.github.io/), [Yuji Zhang](https://celestinezyj.github.io/), [Chi Han](https://glaciohound.github.io), [Heng Ji](https://blender.cs.illinois.edu/hengji.html) 
 - **Venue:** [AAAI 2025 Tutorials](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TQ17)
 - **Date and Time:** Wednesday, February 26, 8:30pm-12:30pm, 2025
 - **Location:** [Pennsylvania Convention Center](https://www.paconvention.com), Room 113A, Philadelphia, PA USA
@@ -28,7 +28,7 @@ Manling Li is an Assistant Professor at Northwestern University. She was a postd
 
 ### Zoey Li 
 
-<img src="images/ShaLi.JPG" alt="Sha Li" width="200" height="300">
+<img src="images/ShaLi.JPG" alt="Sha Li" width="200" height="400">
 
 (Zoey) Sha Li is an applied scientist at Amazon working on LLM pretraining scaling laws and data selection. She obtained her PhD in 2024 at the University of Illinois Urbana-Champaign working with Prof. Jiawei Han and Prof. Heng Ji. Her past research was mainly on information extraction and procedure understanding, extending to the understanding of knowledge within language models and utilizing LMs for knowledge-intensive tasks. She has published 20+ papers at venues such as ACL, EMNLP, NAACL, Neurips, WWW and is an organizer of the workshop "Towards Knowledgeable Language Models" at ACL 2024.
 
