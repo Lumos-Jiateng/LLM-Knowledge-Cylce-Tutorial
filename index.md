@@ -20,15 +20,15 @@ Inspired by this, large language models have been used to generate commonsense k
 
 ## Speakers
 
-### Chi Han
+### Manling Li
 
 <img src="images/ManlingLi.png" alt="Manling Li" width="200" height="200">
 
 Manling Li is an Assistant Professor at Northwestern University. She was a postdoc at Stanford University and obtained the PhD degree in Computer Science at University of Illinois Urbana-Champaign in 2023. She works on the intersection of language, vision, and robotics. Her work won the ACL’24 Outstanding Paper Award, ACL'20 Best Demo Paper Award, and NAACL'21 Best Demo Paper Award. She was a recipient of Microsoft Research PhD Fellowship in 2021, an EE CS Rising Star in 2022, a DARPA Riser in 2022, etc. She served as Organizing Committee of ACL 25, NAACL 25, EMNLP 24, and delivered tutorials about multimodal knowledge at IJCAI'24, CVPR'23, NAACL'22, AAAI'21, ACL'21, etc. 
 
-### Zoey 
+### Zoey Li 
 
-<img src="images/ShaLi.JPG" alt="Sha Li" width="200" height="200">
+<img src="images/ShaLi.JPG" alt="Sha Li" width="200" height="300">
 
 (Zoey) Sha Li is an applied scientist at Amazon working on LLM pretraining scaling laws and data selection. She obtained her PhD in 2024 at the University of Illinois Urbana-Champaign working with Prof. Jiawei Han and Prof. Heng Ji. Her past research was mainly on information extraction and procedure understanding, extending to the understanding of knowledge within language models and utilizing LMs for knowledge-intensive tasks. She has published 20+ papers at venues such as ACL, EMNLP, NAACL, Neurips, WWW and is an organizer of the workshop "Towards Knowledgeable Language Models" at ACL 2024.
 
